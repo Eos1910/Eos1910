@@ -9,6 +9,7 @@
 - 📫 How to reach me: thetpaingsoe1910@gmail.com
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: Love to play football.
+- My <a href="https://github.com/Eos1910/Resume/blob/main/Resume%20-%20Thet%20Paing%20Soe.pdf" rel="nofollow">Resume</a>.
 
 
 # 💫 About Me:
