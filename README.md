@@ -1,6 +1,5 @@
 <h1 align="center" class="heading-element" dir="auto">Welcome👋, I'm Thet Paing Soe</h1>
 
-## Hi there 👋
 
 - 🔭 I’m currently working on Web Development Projects.
 - 🌱 I’m currently learning MySQL.
